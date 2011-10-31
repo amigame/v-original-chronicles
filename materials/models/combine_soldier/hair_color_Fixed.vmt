@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/visitor/hair_color_Fixed"
+	"$halflambert" 1
+
+}
